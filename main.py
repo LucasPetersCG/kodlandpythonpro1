@@ -8,5 +8,4 @@ word = input("Digite uma palavra moderna que você não entende (escreva todo a 
 if word in meme_dict.keys():
     # O que devemos fazer se a palavra for encontrada?
 else:
-    # O que devemos fazer se a palavra não for encontrada?
-
+   
